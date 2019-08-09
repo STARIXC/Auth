@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FireBase 1.0</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="register_btn_text">Register</string>
+    <string name="account_login">Account Login</string>
+    <string name="loginBtn">Login</string>
+    <string name="Alternative_signing">---- OR Register With ----</string>
+    <string name="user_name">name</string>
+
+</resources>
